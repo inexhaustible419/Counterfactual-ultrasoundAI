@@ -1,0 +1,1 @@
+2023-09-12 20:22:14,166 - {'algorithm': 'SimSiam', 'model': 'MyModel', 'input_channels': 1, 'imagenetpretrained': False, 'image_size': (63, 412), 'batch_size': 64, 'accumulate_grad_batches': 64, 'warmup_epochs': 3, 'max_epochs': 26, 'lr': 0.001, 'weight_decay': 0.0005, 'num_workers': 4, 'num_gpus': 1, 'seed': 2020}
