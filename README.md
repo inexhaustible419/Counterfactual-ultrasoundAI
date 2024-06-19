@@ -6,7 +6,8 @@ Counterfactual Ultrasound Anti-Interference Self-Supervised Network for B-mode U
 A large contiguous area is specified for pixel dropout. **Center Filter (CF):** After selecting the central region, basic mean filtering is applied.
 **Random Shuffle (RS):** Regions are randomly selected for shuffling pixel combinations in blocks.
 
-![Uploading SCDA.jpg…]()
+![SCDA](https://github.com/inexhaustible419/Counterfactual-ultrasoundAI/assets/145007561/ac97a37a-47ff-4e9c-a778-957b4f6eb75f)
+
 
 
 **Typical sample performance in our method ablation study.** **Original** is the direct output of the backbone network; **+SSL** adds self
