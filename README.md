@@ -1,5 +1,5 @@
 # ultrasound-CounterfactualDA
-Self-supervised Learning for Ultrasound Tongue Contour Extraction with Counterfactual Data Augmentation
+Counterfactual Ultrasound Anti-Interference Self-Supervised Network for B-mode Ultrasound Tongue Extraction
 
 
 **Overview of our framework.** **Grid Dropout (GD):** Dropout is applied to specific pixels in a grid-like fashion. **Center Dropout (CD):**
