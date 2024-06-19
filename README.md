@@ -12,6 +12,7 @@ A large contiguous area is specified for pixel dropout. **Center Filter (CF):** 
 
 **Typical sample performance in our method ablation study.** **Original** is the direct output of the backbone network; **+SSL** adds self
 supervised pre training; **+RS&GD** adds specific data augmentation based on **+SSL**.
-![image](https://github.com/inexhaustible419/ultrasound-CounterfactualDA/assets/145007561/50a5e185-bbda-4194-a91f-c79109a5eb93)
+![1-Result](https://github.com/inexhaustible419/Counterfactual-ultrasoundAI/assets/145007561/b4467053-a197-41e9-9830-e3e5839dbeca)
+
 
 **Supported by the Open Fund of Science and Technology on Parallel and Distributed Processing Laboratory ( PDL )**
