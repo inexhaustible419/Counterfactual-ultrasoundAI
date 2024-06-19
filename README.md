@@ -1,4 +1,4 @@
-# ultrasound-CounterfactualDA
+# Counterfactual-ultrasoundAI
 Counterfactual Ultrasound Anti-Interference Self-Supervised Network for B-mode Ultrasound Tongue Extraction
 
 
